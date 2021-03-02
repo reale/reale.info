@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Minimum Wages: For or Against?"
 lang: en
 ref: minimum-wages-for-or-against
 categories: [publications, articles, focus]
 tags: [politics, society, jobs, work, european union]
-image: /assets/images/2020-09-17-minimum-wages-for-or-against.jpg
+featured_image: /assets/images/2020-09-17-minimum-wages-for-or-against.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/minimum-wages-for-or-against-c1db66718470
 ---

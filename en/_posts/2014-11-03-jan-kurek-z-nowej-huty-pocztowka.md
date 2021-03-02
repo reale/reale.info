@@ -1,9 +1,8 @@
 ---
-layout: publication
 title: Jan Kurek, Z Nowej Huty pocztówka
 categories: [poetry, translations, misc]
 tags: []
-image: /assets/images/2014-11-03-jan-kurek-z-nowej-huty-pocztowka.jpg
+featured_image: /assets/images/2014-11-03-jan-kurek-z-nowej-huty-pocztowka.jpg
 image_alt: "Robert Kosieradzki, Nowa Huta"
 ---
 

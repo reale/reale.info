@@ -1,11 +1,10 @@
 ---
-layout: resume
 title: "Project Manager"
 lang: en
 ref: project-manager-agid
 categories: [resume, experience]
 tags: []
-image:
+featured_image:
 employer:
     name: "Agenzia per l'Italia digitale"
     website: https://www.agid.gov.it/

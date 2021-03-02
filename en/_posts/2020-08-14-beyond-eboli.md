@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Beyond Eboli"
 lang: en
 ref: beyond-eboli
 categories: [publications, articles, focus]
 tags: [covid 19]
-image: /assets/images/2020-08-14-beyond-eboli.jpg
+featured_image: /assets/images/2020-08-14-beyond-eboli.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/beyond-eboli-6bae1bbcf5dd
 ---

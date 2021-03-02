@@ -1,11 +1,10 @@
 ---
-layout: talk
 title:  "All'ombra del Leviatano: Filesystem in Userspace"
 lang: en
 ref: filesystem-in-userspace
 categories: [talks]
 tags: []
-image: /assets/images/2015-10-24-ombra-del-leviatano-filesystem-in-userspace.png
+featured_image: /assets/images/2015-10-24-ombra-del-leviatano-filesystem-in-userspace.png
 conference: "Linux Day 2015"
 location: Rome
 canonical: https://reale.me/linux-day-2015

@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Mediterranea"
 lang: en
 ref: mediterranea
 categories: [publications, poetry]
 tags: []
-image: /assets/images/2018-08-27-mediterranea.jpg
+featured_image: /assets/images/2018-08-27-mediterranea.jpg
 others:
   gitbook: https://mediterranea.reale.me/
   amazon: https://www.amazon.it/gp/product/B07GRVW15Z/

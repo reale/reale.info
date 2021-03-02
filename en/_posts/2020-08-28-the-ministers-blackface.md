@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "The Minister’s blackface"
 lang: en
 ref: the-ministers-blackface
 categories: [publications, articles, focus]
 tags: [italy, politics, foreign policy, racism, blacklivesmatter]
-image: /assets/images/2020-08-28-the-ministers-blackface.png
+featured_image: /assets/images/2020-08-28-the-ministers-blackface.png
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/the-ministers-blackface-11e61f7444e6
 ---

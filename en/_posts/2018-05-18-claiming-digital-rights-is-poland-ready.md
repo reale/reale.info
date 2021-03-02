@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Claiming digital rights — Is Poland ready?"
 lang: en
 ref: claiming-digital-rights-is-poland-ready
 categories: [publications, articles]
 tags: []
-image: /assets/images/2018-05-18-claiming-digital-rights-is-poland-ready.jpg
+featured_image: /assets/images/2018-05-18-claiming-digital-rights-is-poland-ready.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/digital-rights-poland/
 archive: https://web.archive.org/web/*/https://polonicult.com/digital-rights-poland/

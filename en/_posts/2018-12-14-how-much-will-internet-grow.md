@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "How much will Internet grow in the next years?"
 lang: en
 ref: how-much-will-internet-grow
 categories: [publications, articles]
 tags: []
-image: /assets/images/2018-12-14-how-much-will-internet-grow.jpg
+featured_image: /assets/images/2018-12-14-how-much-will-internet-grow.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/how-much-will-internet-grow-in-the-next-years-42b7965ef554
 ---

@@ -1,11 +1,10 @@
 ---
-layout: project
 title: "TimestamPy"
 lang: en
 ref: timestampy
 categories: [software, blockchain, focusprojects]
 tags: []
-image: /assets/images/2018-01-01-timestampy.png
+featured_image: /assets/images/2018-01-01-timestampy.png
 icon: fa-signal
 others:
   github: https://github.com/reale/timestampy

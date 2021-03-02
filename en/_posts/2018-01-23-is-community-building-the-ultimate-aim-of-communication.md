@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Is Community-building the Ultimate Aim of Communication?"
 lang: en
 ref: is-community-building-the-ultimate-aim-of-communication
 categories: [publications, articles]
 tags: []
-image: /assets/images/2018-01-23-is-community-building-the-ultimate-aim-of-communication.jpg
+featured_image: /assets/images/2018-01-23-is-community-building-the-ultimate-aim-of-communication.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/is-community-building-the-ultimate-aim-of-communication-61a83503252d
 others:

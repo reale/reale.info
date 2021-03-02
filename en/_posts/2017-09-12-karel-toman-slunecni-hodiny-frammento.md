@@ -1,9 +1,8 @@
 ---
-layout: publication
 title: Karel Toman, Sluneční hodiny (frammento)
 categories: [poetry, translations, misc]
 tags: []
-image: /assets/images/2017-09-12-karel-toman-slunecni-hodiny-frammento.jpg
+featured_image: /assets/images/2017-09-12-karel-toman-slunecni-hodiny-frammento.jpg
 ---
 
 <p><em>Dum v rozvalinach. Po deravych zdech<br />

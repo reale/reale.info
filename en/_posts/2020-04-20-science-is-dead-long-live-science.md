@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Science is dead. Long live science."
 lang: en
 ref: science-is-dead-long-live-science
 categories: [publications, articles]
 tags: []
-image: /assets/images/2020-04-20-science-is-dead-long-live-science.jpg
+featured_image: /assets/images/2020-04-20-science-is-dead-long-live-science.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/science-is-dead-long-live-science-4de2342d9798
 ---

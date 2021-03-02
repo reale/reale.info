@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "The best investment? In ourselves"
 lang: en
 ref: the-best-investment-in-ourselves
 categories: [publications, articles, focus]
 tags: [warren buffett, finance, life lessons, ceo, investment]
-image: /assets/images/2020-08-30-the-best-investment-in-ourselves.jpg
+featured_image: /assets/images/2020-08-30-the-best-investment-in-ourselves.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/the-best-investment-in-ourselves-1c8b3f5f2082
 ---

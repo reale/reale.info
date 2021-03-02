@@ -1,11 +1,10 @@
 ---
-layout: resume
 title: "Database Administrator"
 lang: en
 ref: dba-esteri
 categories: [resume, experience]
 tags: []
-image: /assets/images/cover.jpg
+featured_image: /assets/images/cover.jpg
 employer:
     name: "Ministero degli Affari Esteri e della Cooperazione Internazionale"
     website: https://www.esteri.it/

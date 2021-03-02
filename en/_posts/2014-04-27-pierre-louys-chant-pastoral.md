@@ -1,9 +1,8 @@
 ---
-layout: publication
 title: Pierre Louÿs, Chant pastoral
 categories: [poetry, translations, misc]
 tags: []
-image: /assets/images/2014-04-27-pierre-louys-chant-pastoral.jpg
+featured_image: /assets/images/2014-04-27-pierre-louys-chant-pastoral.jpg
 image_alt: "François-Louis Schmied, La forêt"
 ---
 

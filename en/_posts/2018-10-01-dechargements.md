@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Déchargements"
 lang: en
 ref: dechargements
 categories: [publications, poetry]
 tags: []
-image: /assets/images/2018-10-01-dechargements.jpg
+featured_image: /assets/images/2018-10-01-dechargements.jpg
 others:
   gitbook: https://dechargements.reale.me/
   amazon: https://www.amazon.it/product/dp/B07HSJW75G/

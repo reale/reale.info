@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "The Portrait of a Young Innovator. An interview with Gian Luca Comandini"
 lang: en
 ref: interview-comandini
 categories: [publications, articles]
 tags: []
-image: /assets/images/2019-08-16-portrait-of-young-innovator-interview-comandini.jpg
+featured_image: /assets/images/2019-08-16-portrait-of-young-innovator-interview-comandini.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/the-portrait-of-a-young-innovator-eeb2ac19623c
 ---

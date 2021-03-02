@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Avoid ableist and gender-specific language"
 lang: en
 ref: avoid-ableist-and-gender-specific-language
 categories: [publications, articles]
 tags: [contact tracing, exposure notification, open source, covid-19, italy, immuni]
-image: /assets/images/app-immuni.jpg
+featured_image: /assets/images/app-immuni.jpg
 publication: "GitHub Issues"
 canonical: https://github.com/immuni-app/documentation/issues/43
 ---

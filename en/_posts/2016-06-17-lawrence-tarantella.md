@@ -1,9 +1,8 @@
 ---
-layout: publication
 title: D. H. Lawrence, Tarantella
 categories: [poetry, translations, misc]
 tags: []
-image: /assets/images/2016-06-17-lawrence-tarantella.jpg
+featured_image: /assets/images/2016-06-17-lawrence-tarantella.jpg
 image_alt: "Franz von Stuck, Wind und Welle"
 ---
 

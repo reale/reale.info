@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "A tale of two cities: Nowa Huta"
 lang: en
 ref: nowa-huta
 categories: [publications, articles]
 tags: []
-image: /assets/images/2018-01-05-nowa-huta-tale-of-two-cities.jpg
+featured_image: /assets/images/2018-01-05-nowa-huta-tale-of-two-cities.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/a-tale-of-two-cities-nowa-huta/
 archive: https://web.archive.org/web/*/https://polonicult.com/a-tale-of-two-cities-nowa-huta/

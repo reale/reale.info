@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Why Tanglegence"
 lang: en
 ref: why-tanglegence
 categories: [publications, articles]
 tags: [tanglegence, technology, complexity, information technology, covid-19]
-image: /assets/images/2020-05-03-why-tanglegence.jpg
+featured_image: /assets/images/2020-05-03-why-tanglegence.jpg
 publication: "Tanglegence Engineering Blog"
 canonical: https://medium.com/tanglegence/why-tanglegence-99da59b5924f
 ---

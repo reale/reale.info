@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "15-minutes cities"
 lang: en
 ref: 15-minute-cities
 categories: [publications, articles]
 tags:
-image: /assets/images/2020-07-30-15-minute-cities.jpg
+featured_image: /assets/images/2020-07-30-15-minute-cities.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/15-minutes-cities-8809510ff4f6
 ---

@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Václav Havel today"
 lang: en
 ref: vaclav-havel-today
 categories: [publications, articles, focus]
 tags: [czech republic, europe, european union, democracy, politics]
-image: /assets/images/2020-10-05-vaclav-havel-today.jpg
+featured_image: /assets/images/2020-10-05-vaclav-havel-today.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/vaclav-havel-today-4256d3b930d8
 ---

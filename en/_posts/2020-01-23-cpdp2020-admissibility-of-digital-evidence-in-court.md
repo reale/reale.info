@@ -1,11 +1,10 @@
 ---
-layout: talk
 title: "Admissibility of digital evidence in court"
 lang: en
 ref: cpdp2020
 categories: [talks]
 tags: []
-image: /assets/images/2020-01-23-cpdp2020-admissibility-of-digital-evidence-in-court.jpg
+featured_image: /assets/images/2020-01-23-cpdp2020-admissibility-of-digital-evidence-in-court.jpg
 conference: CPDP2020
 location: Brussels
 media:

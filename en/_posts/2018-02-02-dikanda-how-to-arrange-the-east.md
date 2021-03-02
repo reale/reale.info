@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "On Dikanda, or How to arrange the East"
 lang: en
 ref: dikanda
 categories: [publications, articles, misc]
 tags: []
-image: /assets/images/2018-02-02-dikanda-how-to-arrange-the-east.jpg
+featured_image: /assets/images/2018-02-02-dikanda-how-to-arrange-the-east.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/on-dikanda-or-how-to-arrange-the-east/
 archive: https://web.archive.org/web/*/https://polonicult.com/on-dikanda-or-how-to-arrange-the-east/

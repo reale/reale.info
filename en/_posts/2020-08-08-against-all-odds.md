@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Against all odds"
 lang: en
 ref: against-all-odds
 categories: [publications, articles, focus]
 tags: [people, society, lebanon, europe, politics]
-image: /assets/images/2020-08-08-against-all-odds.jpg
+featured_image: /assets/images/2020-08-08-against-all-odds.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/against-all-odds-2269a4891a2c
 ---

@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "How to Grow our Professional Network in Four Tips"
 lang: en
 ref: how-to-grow-our-professional-network-in-four-tips
 categories: [publications, articles]
 tags: []
-image: /assets/images/2015-05-10-how-to-grow-our-professional-network-in-four-tips.jpg
+featured_image: /assets/images/2015-05-10-how-to-grow-our-professional-network-in-four-tips.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/how-to-grow-our-professional-network-in-four-tips-c3eceaa9c98f
 others:

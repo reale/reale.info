@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Immuni source code"
 lang: en
 ref: immuni-source-code
 categories: [publications, articles]
 tags: [contact tracing, exposure notification, open source, covid-19, italy, immuni]
-image: /assets/images/app-immuni.jpg
+featured_image: /assets/images/app-immuni.jpg
 publication: "GitHub Issues"
 canonical: https://github.com/immuni-app/documentation/issues/7#issuecomment-629643173
 ---

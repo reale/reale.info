@@ -1,11 +1,10 @@
 ---
-layout: resume
 title: "Senior Database Administrator"
 lang: en
 ref: senior-dba-metaenergia
 categories: [resume, experience]
 tags: []
-image:
+featured_image:
 employer:
     name: "MetaEnergia SpA"
     website: http://www.metaenergia.it/

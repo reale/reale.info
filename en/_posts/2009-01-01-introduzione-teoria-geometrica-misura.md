@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Una introduzione alla teoria geometrica della misura"
 lang: en
 ref: bachelor-thesis
 categories: [publications, theses]
 tags: []
-image: /assets/images/cover.jpg
+featured_image: /assets/images/cover.jpg
 location: "Università degli Studi di Napoli Federico II"
 others:
   github: https://github.com/reale/introduzione-teoria-misura

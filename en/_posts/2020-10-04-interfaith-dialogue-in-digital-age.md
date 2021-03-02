@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Interfaith dialogue in digital age"
 lang: en
 ref: interfaith-dialogue-in-digital-age
 categories: [publications, articles, focus]
 tags: [religion, digital, people, ethics, politics]
-image: /assets/images/2020-10-04-interfaith-dialogue-in-digital-age.jpg
+featured_image: /assets/images/2020-10-04-interfaith-dialogue-in-digital-age.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/interfaith-dialogue-in-digital-age-6d5447c0960c
 ---

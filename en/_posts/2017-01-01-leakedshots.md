@@ -1,11 +1,10 @@
 ---
-layout: project
 title: "Leaked Shots"
 lang: en
 ref: leakedshots
 categories: [projects, photography, misc]
 tags: []
-image: /assets/images/2017-01-01-leakedshots.jpg
+featured_image: /assets/images/2017-01-01-leakedshots.jpg
 canonical: https://leakedshots.reale.me/
 others:
   flickr: https://www.flickr.com/people/leakedshots

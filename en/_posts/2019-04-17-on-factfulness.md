@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "On factfulness"
 lang: en
 ref: factfulness
 categories: [publications, articles]
 tags: []
-image: /assets/images/2019-04-17-on-factfulness.jpg
+featured_image: /assets/images/2019-04-17-on-factfulness.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/on-factfulness-72fd616a03c
 ---

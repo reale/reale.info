@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Humans, algorithms, decisions, bias"
 lang: en
 ref: humans-algorithms-decisions-bias
 categories: [publications, articles]
 tags: [algorithms, ai, artificial intelligence, bias, machine learning]
-image: /assets/images/2018-08-10-humans-algorithms-decisions-bias.jpg
+featured_image: /assets/images/2018-08-10-humans-algorithms-decisions-bias.jpg
 image_alt: "Orlagh Murphy/Getty Images"
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/humans-algorithms-decisions-bias-142020b3098c

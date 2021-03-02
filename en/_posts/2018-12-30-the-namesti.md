@@ -1,10 +1,9 @@
 ---
-layout: publication
 title: "The Náměstí"
 lang: en
 categories: [publications, misc]
 tags: []
-image: /assets/images/2018-12-30-the-namesti.jpg
+featured_image: /assets/images/2018-12-30-the-namesti.jpg
 image_alt: "Josef Sudek - Staroměstské náměstí"
 publication: "Write the City, issue 3 (Legends)"
 canonical: https://issuu.com/writethecity/docs/legends__wtc__3_/81

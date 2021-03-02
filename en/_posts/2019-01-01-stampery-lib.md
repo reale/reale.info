@@ -1,11 +1,10 @@
 ---
-layout: project
 title: "stampery-lib"
 lang: en
 ref: stampery-lib
 categories: [blockchain]
 tags: []
-image: /assets/images/2019-01-01-stampery-lib.jpg
+featured_image: /assets/images/2019-01-01-stampery-lib.jpg
 others:
   github: https://github.com/reale/stampery-lib
   youtube: https://youtu.be/8AtweGnW7Kk

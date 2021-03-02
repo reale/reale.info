@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Scapegoats"
 lang: en
 ref: scapegoats
 categories: [publications, articles, focus]
 tags: [italy, politics]
-image: /assets/images/2020-08-23-scapegoats.jpg
+featured_image: /assets/images/2020-08-23-scapegoats.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/scapegoats-93881d856d92
 ---

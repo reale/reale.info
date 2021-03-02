@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "The social cost of the gig economy"
 lang: en
 ref: the-social-cost-of-gig-economy
 categories: [publications, articles, focus]
 tags: [gig economy, california, usa, uber, lyft]
-image: /assets/images/2020-08-14-the-social-cost-of-gig-economy.jpg
+featured_image: /assets/images/2020-08-14-the-social-cost-of-gig-economy.jpg
 image_alt: Judge Ethan P. Schulman
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/the-social-cost-of-gig-economy-11ce28dcd21c

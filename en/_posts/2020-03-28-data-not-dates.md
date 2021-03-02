@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: Data, not dates
 lang: en
 ref: data-not-dates
 categories: [publications, articles]
 tags: []
-image: /assets/images/2020-03-28-data-not-dates.jpg
+featured_image: /assets/images/2020-03-28-data-not-dates.jpg
 publication: Facebook
 canonical: https://www.facebook.com/rober.reale/posts/2590758117833020
 media:

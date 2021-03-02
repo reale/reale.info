@@ -1,11 +1,10 @@
 ---
-layout: resume
 title: "Data Architect"
 lang: en
 ref: data-architect-camera
 categories: [resume, experience]
 tags: []
-image:
+featured_image:
 employer:
     name: "Camera dei deputati"
     website: https://www.camera.it/

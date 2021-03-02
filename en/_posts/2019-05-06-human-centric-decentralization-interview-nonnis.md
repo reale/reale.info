@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Human-centric decentralization. Interview with William Nonnis"
 lang: en
 ref: interview-nonnis
 categories: [publications, articles]
 tags: []
-image: /assets/images/2019-05-06-human-centric-decentralization-interview-nonnis.jpg
+featured_image: /assets/images/2019-05-06-human-centric-decentralization-interview-nonnis.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/human-centric-decentralization-7bf61ce6ad63
 ---

@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Building a better future. Interview with Emilia Garito"
 lang: en
 ref: interview-garito
 categories: [publications, articles]
 tags: []
-image: /assets/images/2019-06-24-building-better-future-interview-garito.jpg
+featured_image: /assets/images/2019-06-24-building-better-future-interview-garito.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/emilia-garito-building-a-better-future-85de1b398c86
 ---

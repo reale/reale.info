@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "What is Code Journalism?"
 lang: en
 ref: what-is-code-journalism
 categories: [publications, articles]
 tags: []
-image: /assets/images/2020-04-27-what-is-code-journalism.jpg
+featured_image: /assets/images/2020-04-27-what-is-code-journalism.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/what-is-code-journalism-2defb978623e
 ---

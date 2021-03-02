@@ -1,11 +1,10 @@
 ---
-layout: publication
 title: "Sense and Sensibility of the Digital Transformation. Interview with Andrea Lisi"
 lang: en
 ref: interview-lisi
 categories: [publications, articles]
 tags: []
-image: /assets/images/2019-06-17-sense-sensibility-digital-transformation-interview-lisi.jpg
+featured_image: /assets/images/2019-06-17-sense-sensibility-digital-transformation-interview-lisi.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/sense-and-sensibility-of-the-digital-transformation-13158e08248a
 ---

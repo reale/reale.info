@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section>
+    <header class="main">
+        <h1>Work experience: {{ page.title }}</h1>
+    </header>
+
+    <table>
+        <tr>
+            <td>Employer</td>
+            <td><a href="{{ page.employer.website }}" target="_blank">{{ page.employer.name }}</a></td>
+        </tr>
+        <tr>
+            <td>Period</td>
+            <td><a href="{{ page.period }}" target="_blank">{{ page.period }}</a></td>
+        </tr>
+    </table>
+
+    {{ content }}
+
+    {% if page.image %}
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
+    {% endif %}
+
+</section>

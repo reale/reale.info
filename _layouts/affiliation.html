@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<section>
+    <header class="main">
+        <h1>{{ page.title }}</h1>
+    </header>
+
+    {% if page.image %}
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
+    {% endif %}
+
+    {{ content }}
+
+    <table>
+        {% if page.website %}
+        <tr>
+            <td>{{ site.data.labels.website[page.lang] }}</td>
+            <td><a href="{{ page.website }}" target="_blank">{{ page.title }}</a></td>
+        </tr>
+        {% endif %}
+        {% if page.role %}
+        <tr>
+            <td>{{ site.data.labels.my-role[page.lang] }}</td>
+            <td>{{ page.role }}</td>
+        </tr>
+        {% endif %}
+        {% if page.ref %}
+        {% assign posts_in_other_langs = site.posts | where_exp: "post", "post.ref == page.ref" | where_exp: "post", "post.lang != page.lang" | sort: 'lang' | reverse %}
+        {% if posts_in_other_langs.size > 0 %}
+        <tr>
+            <td>{{ site.data.labels.also-available[page.lang] }}</td>
+            <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}</a>{% endfor %}</td>
+        </tr>
+        {% endif %}
+        {% endif %}
+    </table>
+</section>

@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<section>
+    <header class="main">
+        <h1>{{ page.title }}</h1>
+    </header>
+
+    {% if page.image %}
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
+    {% endif %}
+
+    {{ content }}
+
+    <table>
+        {% if page.publication %}
+        <tr>
+            <td>{{ site.data.labels.first-published[page.lang] }}</td>
+            {% if page.canonical %}
+            <td><a href="{{ page.canonical }}" target="_blank">{{ page.publication }}</a></td>
+            {% else %}
+            <td>{{ page.publication }}</td>
+            {% endif %}
+        </tr>
+        {% endif %}
+
+        {% if page.coauthors %}
+        <tr>
+            <td>{{ site.data.labels.coauthors[page.lang] }}</td>
+            <td>{% for author in page.coauthors %}{{ author }}{% endfor %}</td>
+        </tr>
+        {% endif %}
+
+        {% if page.others.amazon %}
+        <tr>
+            <td>{{ site.data.labels.buy-on[page.lang] }}</td>
+            <td><a href="{{ page.others.amazon }}" target="_blank">Amazon</a></td>
+        </tr>
+        {% endif %}
+        {% if page.others.kobo %}
+        <tr>
+            <td>{{ site.data.labels.buy-on[page.lang] }}</td>
+            <td><a href="{{ page.others.kobo }}" target="_blank">Kobo</a></td>
+        </tr>
+        {% endif %}
+        {% if page.others.goodreads %}
+        <tr>
+            <td>{{ site.data.labels.write-review-on[page.lang] }}</td>
+            <td><a href="{{ page.others.goodreads }}" target="_blank">Goodreads</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.others.gitbook %}
+        <tr>
+            <td>{{ site.data.labels.read-on[page.lang] }}</td>
+            <td><a href="{{ page.others.gitbook }}" target="_blank">GitBook</a></td>
+        </tr>
+        {% endif %}
+        {% if page.others.academia %}
+        <tr>
+            <td>{{ site.data.labels.read-on[page.lang] }}</td>
+            <td><a href="{{ page.others.academia }}" target="_blank">Academia</a></td>
+        </tr>
+        {% endif %}
+        {% if page.others.issuu %}
+        <tr>
+            <td>{{ site.data.labels.read-on[page.lang] }}</td>
+            <td><a href="{{ page.others.issuu }}" target="_blank">Issuu</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.others.github %}
+        <tr>
+            <td>{{ site.data.labels.project-repo[page.lang] }}</td>
+            <td><a href="{{ page.others.github }}" target="_blank">GitHub</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.media.podcast %}
+        <tr>
+            <td>{{ site.data.labels.podcast[page.lang] }}</td>
+            <td><a href="{{ page.media.podcast }}" target="_blank">{{ site.data.labels.podcast[page.lang] }}</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.archive %}
+        <tr>
+            <td>{{ site.data.labels.archived[page.lang] }}</td>
+            <td><a href="{{ page.archive }}" target="_blank">Internet Archive</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.ref %}
+        {% assign posts_in_other_langs = site.posts | where_exp: "post", "post.ref == page.ref" | where_exp: "post", "post.lang != page.lang" | sort: 'lang' | reverse %}
+        {% if posts_in_other_langs.size > 0 %}
+        <tr>
+            <td>{{ site.data.labels.also-available[page.lang] }}</td>
+            <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}</a>{% endfor %}</td>
+        </tr>
+        {% endif %}
+        {% endif %}
+
+    </table>
+</section>

@@ -1,7 +1,7 @@
 site: Roberto Reale
 
-url: https://reale.github.io
-baseurl: /new.reale.me/
+url: https://reale.me
+baseurl: /
 
 collections:
   pages:

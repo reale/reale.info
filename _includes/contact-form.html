@@ -1,14 +1,30 @@
-<div>
-    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgeppybq" method="post">
-        <fieldset id="fs-frm-inputs">
-            <label for="full-name">{{ site.data.labels.name[page.lang] }}</label>
-            <input type="text" name="name" id="full-name" placeholder="{{ site.data.labels.name-placeholder[page.lang] }}" required="">
-            <label for="email-address">{{ site.data.labels.email-address[page.lang] }}</label>
-            <input type="email" name="_replyto" id="email-address" placeholder="{{ site.data.labels.email-address-placeholder[page.lang] }}" required="">
-            <label for="message">{{ site.data.labels.message[page.lang] }}</label>
-            <textarea rows="5" name="message" id="message" required=""></textarea>
-            <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-        </fieldset>
-        <input type="submit" value="{{ site.data.labels.submit[page.lang] }}">
-    </form>
+<div class="contact-form">
+
+	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *</label>
+			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Name *</label>
+			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Message *</label>
+			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+		</div>
+
+		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
+		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject }}" />
+		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+
+		<div class="contact-form__item">
+			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
+		</div>
+
+	</form>
+
 </div>

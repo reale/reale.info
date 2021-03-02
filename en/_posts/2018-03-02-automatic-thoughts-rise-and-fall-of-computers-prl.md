@@ -1,0 +1,47 @@
+---
+layout: publication
+title: "Automatic Thoughts. The rise and fall of computers in PRL"
+lang: en
+ref: automatic-thoughts
+categories: [publications, articles]
+tags: []
+image: /assets/images/2018-03-02-automatic-thoughts-rise-and-fall-of-computers-prl.jpg
+publication: PoloniCult
+canonical: https://polonicult.com/automatic-thoughts-the-rise-and-fall-of-computers-prl/
+archive: https://web.archive.org/web/*/https://polonicult.com/automatic-thoughts-the-rise-and-fall-of-computers-prl/
+others:
+  medium: https://medium.com/reale/automatic-thoughts-137a37c652f7
+  linkedin: https://www.linkedin.com/pulse/automatic-thoughts-roberto-reale/
+---
+
+„Żyjemy w świecie fantastyczniejszym niż świat starych bajek”
+
+“We live in a crazier world than old fairy tales would ever dream of”
+
+Problemy, September 1946
+
+“A central thesis of this narrative is that the digital paradigm, whose roots lay in Turing’s 1936 paper, Shannon’s thesis, and elsewhere, is the key to the age that defines technology today.”
+
+Paul Ceruzzi, Computing: a concise history
+
+Mankind’s obsession with automatic thinking goes back a long way in history. From Pāṇini’s Aṣṭādhyāyī, the oldest complete treatise on Sanskrit grammar which foreshadows by 25 centuries modern notations such as the Backus–Naur form in programming language theory, through Llull’s mnemonic graphic cartwheels and Bruno’s Ars reminiscendi, through Pascal’s and Leibniz’s counting machines and their parody stumbled upon by Gulliver in the fictional city of Lagado, whereby “the most ignorant person, at a reasonable charge, and with a little bodily labour, might write books in philosophy, poetry, politics, laws, mathematics, and theology, without the least assistance from genius or study”, all the way up to Charles Babbage’s Analytical Engine, which was capable of calculate Bernoulli numbers if instructed to do so, as was shown by Ada Lovelace in 1843.
+
+Automatic thinking and mathematics go hand-in-hand, of course; however, the mathematician is more often than not concerned with the internal, formal structure of mathematical objects themselves. It is not before we turn mathematics into a tool for self-introspection that something interesting happens: in the spirit perhaps of Novalis’ astounding apothegm “das höchste Leben ist Mathematik”. Beckett, Borges, Queneau, to name just a few, are all busy at work in a large, coherent, systematic exploration, which climaxes with Turing’s mathematical model of a hypothetical, universal computing machine, as well as with Shannon’s information theory. Kafka’s Strafkolonie and Václav Havel’s Antikódy, on the other hand, turn everything topsy-turvy, investigating the progressive bureaucratisation and depersonalisation of the language of authority.
+
+When it comes to Central Europe, all of the above must be supplemented with the long-standing, deeply-ingrained Kabbalistic tradition, of which Meyrink’s Der Golem and Kubin’s Die andere Seite are but late crops; with Gombrowicz’s “echolalia”; with the extremely Byzantine, convoluted drawings which Adolf Wölfli compulsively produced over the course of more than twenty years (and which are reminiscent of the intricacies of modern microprocessor design). We will have then no difficulties understanding why the whole of Central Europe could not but grow obsessed with automatic thinking, both in its theoretical foundations and in its practical applications; which today amount, needless to say, to computer science and engineering.
+
+It is no easy task to trace the history of the ideas and artefacts whereby automatic thinking is designed and implemented, and for (at least) a couple of good reasons. First of all, outside the Anglosphere the subject has so far been avoided by both historians (who do not possess specialist knowledge in the field of computer science) and IT specialists (who lack the basic tools of historical research). Moreover, it is hard to fine-tune the level of detail of the narrative and intelligibility of the text, especially if a book is supposed to reach both engineers and laymen who specialise in humanities. Last but not least, a widespread belief, especially common in some European countries, tends to put computer science and its applications into the same basket with more menial, mechanical chores: “die Wissenschaft denkt nicht” (“science does not think”) was a mantra nobody less than Martin Heidegger would live by.
+
+Which is why we are in dire need of books such as Automaty liczą (to be translated as either Machines that count or Machines are counting: ambiguity is no doubt on purpose) by the Polish journalist, author, historian of technology, and science populariser Bartłomiej Kluska. Automaty liczą is the history of the first attempts to build digital computing machines in Poland—from the humongous electronic brains of the ‘40s and ‘50s to miniature devices, from the rise of the Instytut Maszyn Matematycznych to the fall of the Elwro plant in Wrocław. It is a story with no happy ending, since the collapse of the Soviet-backed communist regime and the emergence of free market in the computer industry made it possible to buy almost any western home computer (such as the Atari or the Commodore) at the end of the ‘80s.
+
+As far as the fate of the Polish People’s Republic is concerned, the broken dream of a “Sarmatian Silicon Valley” is the direct outcome of a mixture of short-sighted industrial plans and the nomenklatura’s quintessential inability to evolve. As Piotr Lipiński writes in the popular Polish tech webzine Spider’s Web, “at some point a group of IT specialists appears who argue that in Poland the production of computer hardware does not make sense, since it will never catch up with the West”. And yet software can easily become the new promised land, if only decision-makers could understand the value of so intangible an asset—after all, software is neither a locomotive, nor a tractor… not even a computer!
+
+An emblematic case, the Elrwo plants in Wrocław, once the pride of the city and of the entire Polish IT industry, had given birth to the celebrated Odra line of computers (the name refers to the Oder river which flows through Lower Silesia) and to the first Polish video game in history. In 1993, as part of the dismissal of public assets, the plants were to be sold to Siemens, whereby giving up, de facto, the production of computer equipment. Seven years later, in 2000, what has been left was bought by Telech, an American telecommunications company; yet, despite the ambitious plans to launch the production of optical fibre technology in Wrocław, the new owner decides to demolish the buildings, and in 2009 (half a century after a group of enthusiasts brought them to life) the plants are finally liquidated. Today what is left of Elrwo are but barely recognisable scars upon the fabric of city.
+
+But The Times They Are a-Changin’, as Bob Dylan used to sing, and today we are facing very different challenges. In the days of yore, the invention of writing, which John Wilkins praises as “a thing of so great Art and exquisiteness” and Plato’s Phaedrus falls short of declaring a blessing in disguise, did indeed initiate a most dramatic change in the production and consumption of knowledge. Nowadays, the digital revolution is disrupting, once and for good, every sort of long-lived cognitive habits, both in the private sphere and in the Öffentlichkeit; so much is the whole world as we knew it left at sixes and sevens, indeed, that somebody conjectures of a genetic mutation: so deep are the “shifts created on the surface by the ravages familiar to all of us” (Alessandro Baricco, Barbarians: An Essay on the Mutation of Culture. New York: Rizzoli Ex Libris, 2014; transl. from Italian by Stephen Sartarelli).
+
+At the end of the day, history shows that the best course of action is taking no relish in apocalypticism (nor, for that matter, in standing up for “integratedness” at all costs). As Stanisław Lem writes in his stunning masterpiece Summa Technologiæ, “history does not deal with tripartite closed schemas entailing a beginning, a middle, and an end” (the quotation is recalled by Kluska himself): what matters here is mankind’s ability to adapt to, and to bring about, change.
+
+The “focus shift” from hardware to software, from materia to forma, from the two major political blocks of the “solid era” to the four V’s (volume, velocity, variety, veracity) of liquid society and of big data, is a powerful signal. But all progress is elusive, and the spectre of social inequality lurks behind the glamorous lights and the alalà of the influencers. As I wrote in a review of Bauman’s Collateral Damage, “inequality tends to grow not merely in the field of financial resources, but also in every part of a ‘modernised’ Maslow pyramid: social capital; technical, scientific, and economic know-how; employability in a job market which is evolving further and further away from the traditional trades whilst growing thinner and thinner due to the advance of artificial intelligence”.
+
+The digital revolution is bringing about changes of an unprecedented size and pathos. It is our job, both as citizens and as policy-makers, to ensure that nothing will go astray, that nobody will be left behind. To stick with Europe, the EU Digital Agenda and the Digital Single Market are powerful frameworks only inasmuch as the member states prove capable of suitable implementations. We are in charge. We are accountable.

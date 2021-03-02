@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/reale
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reale.me
+  * I am reale (https://keybase.io/reale) on keybase.
+  * I have a public key ASC7prRw88qck0mao3uzp2TtsM1ZxhzzIMwGA62Z1s7llAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bba6b470f3ca9c93499aa37bb3a764edb0cd59c61cf320cc0603ad99d6cee5940a",
+      "host": "keybase.io",
+      "kid": "0120bba6b470f3ca9c93499aa37bb3a764edb0cd59c61cf320cc0603ad99d6cee5940a",
+      "uid": "e08086abd2921c8945763d8de035e319",
+      "username": "reale"
+    },
+    "merkle_root": {
+      "ctime": 1535832513,
+      "hash": "7c20462618a2b613181befad989f392f70580e3d6fe4e4c88686b191377d53579c2725590afcf42a8740396972f3546f9370f73e690b1bc08eb2e9217eb83863",
+      "hash_meta": "1113dca2a4255dbc662a42537e95cc0eb38df59ecc25b5e63bfa8e6588514397",
+      "seqno": 3549916
+    },
+    "service": {
+      "entropy": "sSKws0vFjZKpSceXYPIpYie7",
+      "hostname": "reale.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.2"
+  },
+  "ctime": 1535832533,
+  "expire_in": 504576000,
+  "prev": "53e89c17a2f9a5d6c33ce972ad19752e7f963155336d46fbe6247a6ae5c1c81c",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu6a0cPPKnJNJmqN7s6dk7bDNWcYc8yDMBgOtmdbO5ZQKp3BheWxvYWTESpcCFsQgU+icF6L5pdbDPOlyrRl1Ln+WMVUzbUb75iR6auXByBzEIPsh+F5DM14zXI+MQaFsX+5cIIpbumKM03YPI9p29nwUAgHCo3NpZ8RAV0HVTzkq5BNIMUyKsKH90H+zBq0ARU8A957CEJTy2Py+ml8F10tX6rpU16Lzsr1d1uu848I1G/aOq6CVJu0pAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPTmNKDeJ0XOcDOdGBfWQtkgr4OTtfMlhK/oa+HUNtBfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reale
+
+==================================================================

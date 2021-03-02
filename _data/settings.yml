@@ -33,15 +33,15 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/reale.eu'
   twitter_url: 'https://twitter.com/Reale_EU'
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/reale.eu'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/c/robertoreale'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
-  medium_url: ''
+  medium_url: 'https://medium.com/@reale'
   quora_url: ''
   amazon_url: ''
   apple_url: ''
@@ -58,7 +58,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/robertoreale'
 
 color_settings:
   background_color: '#ffffff'

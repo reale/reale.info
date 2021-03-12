@@ -4,7 +4,7 @@ lang: it
 ref: lasciateci-gli-algoritmi
 categories: [publications, articles, focus]
 tags: [algorithms, artificial intelligence, ethics, science, computer science]
-featured_image: /assets/images/2021-03-14-lasciateci-gli-algoritmi.jpg
+featured_image: /assets/images/2021-03-15-lasciateci-gli-algoritmi.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/lasciateci-gli-algoritmi-eab312e658f5
 ---

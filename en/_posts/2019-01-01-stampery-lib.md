@@ -7,7 +7,7 @@ tags: []
 featured_image: /assets/images/2019-01-01-stampery-lib.jpg
 others:
   github: https://github.com/reale/stampery-lib
-  youtube: https://youtu.be/8AtweGnW7Kk
+  youtube: https://youtu.be/ki5YXi3I7dg
 ---
 
 A basic Linux library to stamp files based on the blockchain.

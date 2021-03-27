@@ -12,4 +12,4 @@ others:
 
 A basic Linux library to stamp files based on the blockchain.
 
-The library uses the [Stampery API](https://api.stampery.com/) which allows to prove the existence, integrity and ownership of arbitrary data by anchoring (embedding) unique identifiers (hashes) of files and datasets into the Ethereum and Bitcoin blockchains.
+The library uses the [Stampery API](https://stampery.com/) which allows to prove the existence, integrity and ownership of arbitrary data by anchoring (embedding) unique identifiers (hashes) of files and datasets into the Ethereum and Bitcoin blockchains.

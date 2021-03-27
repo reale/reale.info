@@ -8,5 +8,5 @@ featured_image: /assets/images/2019-06-10-blockchain-data-sovereignty-sicurezza-
 location: Giulianova
 media:
   pictures: https://photos.app.goo.gl/T3mVH7Fc2fmq9GSb9
-  youtube: https://youtu.be/KY8xk5FtX6Q
+  youtube: https://youtu.be/wzW2O83Kv-w
 ---

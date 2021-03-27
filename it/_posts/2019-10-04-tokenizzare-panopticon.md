@@ -11,4 +11,5 @@ media:
   website: https://e-privacy.winstonsmith.org/e-privacy-XXVI.html
   archive: https://web.archive.org/web/*/https://e-privacy.winstonsmith.org/e-privacy-XXVI.html
   pictures: https://photos.app.goo.gl/KUc3qEBhmwHujggJA
+  youtube: [ "https://youtu.be/vABowR7snEI", "https://youtu.be/KEp3uIe7F2M" ]
 ---

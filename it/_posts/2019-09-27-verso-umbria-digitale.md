@@ -7,7 +7,7 @@ featured_image: /assets/images/2019-09-27-verso-umbria-digitale.jpg
 location: Perugia
 media:
   pictures: https://photos.app.goo.gl/UXT9qKDvPGjNsFSq7
-  youtube: [ "https://youtu.be/sUdNJO3dKC4", "https://youtu.be/L1FXOM1gy3E?t=1015" ]
+  youtube: [ "https://youtu.be/sUdNJO3dKC4", "https://youtu.be/JKrkK_gzY28?t=1015" ]
 ---
 
 Lo dico spesso in giro per l'Italia: la trasformazione digitale nel nostro Paese non è, non può essere rottura violenta con il nostro passato. La nostra prima responsabilità è conservare e vivificare un patrimonio di saperi, pratiche, diversità e memoria che hanno pochi uguali nel mondo. Per noi il cambiamento dev'essere innanzitutto salvaguardia, per poter essere innovazione.

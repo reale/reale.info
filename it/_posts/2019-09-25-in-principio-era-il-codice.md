@@ -9,5 +9,5 @@ conference: "Dai Codici al Coding. Per un'educazione digitale"
 location: Rome
 media:
   pictures: https://photos.app.goo.gl/TZzgXRfxJ3XYNFo79
-  youtube: https://youtu.be/csiWfE3XFOE
+  youtube: https://youtu.be/eQuHgryRqPs
 ---

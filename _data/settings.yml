@@ -20,7 +20,7 @@ menu_settings:
       - title: 'Old Website'
         url: 'https://pre2021.reale.me/'
       - title: 'IT'
-        url: '/'
+        url: '/it/'
     it:
       - title: 'Progetti'
         url: '/'
@@ -31,7 +31,7 @@ menu_settings:
       - title: 'Contatti'
         url: '/contact'
       - title: 'EN'
-        url: '/'
+        url: '/en/'
 
 footer_settings:
   footer_tagline: Building a stronger Europe through digital transformation for a more sustainable world.

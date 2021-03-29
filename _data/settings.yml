@@ -8,16 +8,30 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
-    - title: 'Old Website'
-      url: 'https://pre2021.reale.me/'
+    en:
+      - title: 'Projects'
+        url: '/'
+      - title: 'Blog'
+        url: '/blog/'
+      - title: 'About'
+        url: '/about'
+      - title: 'Contact'
+        url: '/contact'
+      - title: 'Old Website'
+        url: 'https://pre2021.reale.me/'
+      - title: 'IT'
+        url: '/'
+    it:
+      - title: 'Progetti'
+        url: '/'
+      - title: 'Blog'
+        url: '/blog/'
+      - title: 'Chi sono'
+        url: '/about'
+      - title: 'Contatti'
+        url: '/contact'
+      - title: 'EN'
+        url: '/'
 
 footer_settings:
   footer_tagline: Building a stronger Europe through digital transformation for a more sustainable world.

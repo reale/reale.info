@@ -1,5 +1,5 @@
 ---
-title: Me in a Nutshell
+title: Io in breve
 #subtitle: Personal is the perfect theme for developers, designers and other creatives.
 #description: Personal is the perfect theme for developers, designers and other creatives.
 lang: it
@@ -7,14 +7,14 @@ permalink: /it/about
 featured_image: /images/demo/about.jpg
 ---
 
-I am an Innovation Manager with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments.
+Sono un Innovation Manager con esperienza internazionale in progetti di e-government e trasformazione digitale del settore pubblico sia a livello europeo che a livello nazionale (organi parlamentari, finanza pubblica, appalti, infrastrutture strategiche, servizi pubblici digitali) e 20 anni di esperienza in sviluppo, progettazione e gestione di piattaforme ICT, business e financial planning e sviluppo strategico in ambienti complessi e multistakeholder.
 
-Indeed, as I view large-scale projects as the complex interplay of many different areas, I seek constant involvement in all facets of the digital transformation: technology, financing, organization, security, communication, governance, policymaking, society, environment.
+Dal momento che considero i progetti su larga scala come attività intrinsecamente multidisciplinari, cerco un costante coinvolgimento in tutti gli aspetti della trasformazione digitale: tecnologici, finanziari, organizzativi, di sicurezza, di comunicazione, di governance, di policymaking, sociali, ambientali.
 
-I build and develop strong relationships with regulators, SMEs, financial institutions, and industry associations throughout Europe in order to monitor public policies and industry initiatives, assess the impact for the relevant stakeholders, influence decisions to support their requirements, and keep them informed so that they can position themselves for efficient growth.
+Costruisco e sviluppo relazioni solide con autorità di regolamentazione, PMI, istituzioni finanziarie e associazioni di settore in tutta Europa al fine di monitorare le politiche pubbliche e le iniziative di digitalizzazione, valutare l'impatto per gli stakeholder, orientare le decisioni a supporto delle loro esigenze e tenere informati gli attori coinvolti supportandoli nel posizionamento per una crescita efficiente.
 
-I am a member of standardisation bodies at the national and EU level and of several international and regional associations. I also research and teach on the organisational, economical and formal aspects of innovation and digital transformation. By delivering keynotes in conferences and meetings throughout Europe and by conducting an extensive communication campaign, I strive to be a thought leader on digital transformation and its impact on our society and culture.
+Sono membro di organismi di standardizzazione a livello nazionale ed europeo e di diverse associazioni internazionali e regionali. Inoltre, faccio ricerca e docenza sugli aspetti organizzativi, economici e formali dell'innovazione e della trasformazione digitale. Partecipo come speaker a conferenze e incontri in tutta Europa e conduco campagne di comunicazione per orientare l'opinione pubblica sulla trasformazione digitale e sul suo impatto sulla nostra società e cultura.
 
-As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy.
+Sono fondatore di <a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank incentrato sulla cittadinanza digitale in quanto credo nella tecnologia come fattore abilitante per la democrazia.
 
-Currently based in Rome, Italy, and Brussels, Belgium.
+Vivo tra Roma e Bruxelles.

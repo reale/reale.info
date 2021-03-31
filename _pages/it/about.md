@@ -2,6 +2,7 @@
 title: Me in a Nutshell
 #subtitle: Personal is the perfect theme for developers, designers and other creatives.
 #description: Personal is the perfect theme for developers, designers and other creatives.
+lang: it
 featured_image: /images/demo/about.jpg
 ---
 

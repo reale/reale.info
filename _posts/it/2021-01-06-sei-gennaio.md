@@ -2,7 +2,7 @@
 title: "Sei gennaio"
 lang: it
 ref: sei-gennaio
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, people, society, politics, history]
 featured_image: /assets/images/2021-01-06-sei-gennaio.jpg
 publication: "Eventual Consistency"

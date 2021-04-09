@@ -2,7 +2,7 @@
 title: "Vaccini e dati aperti"
 lang: it
 ref: vaccini-e-dati-aperti
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [datibenecomune, italy, covid 19, vaccines, open data]
 featured_image: /assets/images/2021-03-14-vaccini-e-dati-aperti.jpg
 publication: "Eventual Consistency"

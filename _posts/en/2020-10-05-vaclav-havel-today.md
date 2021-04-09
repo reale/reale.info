@@ -2,7 +2,7 @@
 title: "Václav Havel today"
 lang: en
 ref: vaclav-havel-today
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [czech republic, europe, european union, democracy, politics]
 featured_image: /assets/images/2020-10-05-vaclav-havel-today.jpg
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "L'âge de Vivaldi"
 lang: fr
 ref: age-de-vivaldi
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [belgium, politics, digital transformation, environment, europe]
 featured_image: /assets/images/2020-09-30-age-de-vivaldi.jpg
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Security through obscurity?"
 lang: it
 ref: security-through-obscurity
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [linux, security, open source, technology, huawei]
 featured_image: /assets/images/2021-01-24-security-through-obscurity.png
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Andare oltre lo studio di funzione"
 lang: it
 ref: andare-oltre-lo-studio-di-funzione
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [mathematics, stem, learning, italy, science]
 featured_image: /assets/images/2020-10-06-andare-oltre-lo-studio-di-funzione.jpg
 publication: "Eventual Consistency"

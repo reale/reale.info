@@ -2,7 +2,7 @@
 title: "info.appname?"
 lang: it
 ref: info-appname
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, government, politics, society, covid 19]
 featured_image: /assets/images/2021-02-01-info-appname.jpg
 publication: "Eventual Consistency"

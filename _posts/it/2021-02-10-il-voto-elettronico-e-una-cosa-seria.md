@@ -2,7 +2,7 @@
 title: "Il voto elettronico è una cosa seria"
 lang: it
 ref: il-voto-elettronico-e-una-cosa-seria
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [voting, democracy, politics, italy, government]
 featured_image: /assets/images/2021-02-10-il-voto-elettronico-e-una-cosa-seria.png
 publication: "Eventual Consistency"

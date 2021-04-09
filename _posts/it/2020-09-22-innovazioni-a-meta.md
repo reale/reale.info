@@ -2,7 +2,7 @@
 title: "Innovazioni a metà"
 lang: it
 ref: innovazioni-a-meta
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, innovation, politics, society, entrepreneurship]
 featured_image: /assets/images/2020-09-22-innovazioni-a-meta.jpg
 publication: "Eventual Consistency"

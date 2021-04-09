@@ -2,7 +2,7 @@
 title: "Bruciare il Rocci?"
 lang: it
 ref: bruciare-il-rocci
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [schools, italy, society, culture, education]
 featured_image: /assets/images/2020-08-29-bruciare-il-rocci.jpg
 publication: "Eventual Consistency"

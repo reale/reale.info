@@ -2,7 +2,7 @@
 title: "Lo sbando della ragione genera morti"
 lang: it
 ref: lo-sbando-della-ragione-genera-morti
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, italy, europe, vaccines, politics]
 featured_image: /assets/images/2021-03-15-lo-sbando-della-ragione-genera-morti.png
 publication: "Eventual Consistency"

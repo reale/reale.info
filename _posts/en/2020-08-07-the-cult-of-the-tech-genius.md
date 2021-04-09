@@ -2,7 +2,7 @@
 title: "The Cult of the Tech Genius"
 lang: en
 ref: the-cult-of-the-tech-genius
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [tech, culture, corporate culture, diversity, diversity in tech]
 featured_image: /assets/images/2020-08-07-the-cult-of-the-tech-genius.jpg
 image_alt: Dalbert B. Vilarino

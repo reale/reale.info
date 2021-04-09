@@ -2,7 +2,7 @@
 title: "Un passaporto vaccinale made in Naples?"
 lang: it
 ref: un-passaporto-vaccinale-made-in-naples
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, covid 19, vaccines, politics, european union]
 featured_image: /assets/images/2021-03-27-un-passaporto-vaccinale-made-in-naples.png
 publication: "Eventual Consistency"

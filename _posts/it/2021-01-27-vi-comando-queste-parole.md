@@ -2,7 +2,7 @@
 title: "Vi comando queste parole"
 lang: it
 ref: vi-comando-queste-parole
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [history, holocaust, europe, italy, culture]
 featured_image: /assets/images/2021-01-27-vi-comando-queste-parole.jpg
 publication: "Eventual Consistency"

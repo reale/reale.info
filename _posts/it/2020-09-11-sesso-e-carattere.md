@@ -2,7 +2,7 @@
 title: "Sesso e carattere"
 lang: it
 ref: sesso-e-carattere
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [people, society, gender equality]
 featured_image: /assets/images/2020-09-11-sesso-e-carattere.jpg
 publication: "Eventual Consistency"

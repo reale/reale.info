@@ -2,7 +2,7 @@
 title: "Oltre il CAD"
 lang: it
 ref: oltre-il-cad
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [digital transformation, italy, europe, european union, politics]
 featured_image: /assets/images/2021-03-07-oltre-il-cad.png
 image_alt: "Il grafo che descrive la storia del CAD è di Giovanni Pirrotta"

@@ -2,7 +2,7 @@
 title: "Rafforzare il sistema economico-finanziario europeo"
 lang: it
 ref: rafforzare-il-sistema-economico-finanziario-europeo
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [european union, euro, finance, economics, politics]
 featured_image: /assets/images/2021-01-20-rafforzare-il-sistema-economico-finanziario-europeo.jpg
 image_alt: "Thomas Lohnes — Getty"

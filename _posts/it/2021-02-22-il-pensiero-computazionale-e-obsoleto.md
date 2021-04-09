@@ -2,7 +2,7 @@
 title: "Il pensiero computazionale è obsoleto"
 lang: it
 ref: il-pensiero-computazionale-e-obsoleto
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [education, schools, tech, stem, data]
 featured_image: /assets/images/2021-02-22-il-pensiero-computazionale-e-obsoleto.png
 publication: "Eventual Consistency"

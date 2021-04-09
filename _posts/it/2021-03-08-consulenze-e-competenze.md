@@ -2,7 +2,7 @@
 title: "Consulenze e competenze"
 lang: it
 ref: consulenze-e-competenze
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [politics, italy, europe, european union, funding]
 featured_image: /assets/images/2021-03-08-consulenze-e-competenze.jpg
 image_alt: "Mario Draghi © Reuters"

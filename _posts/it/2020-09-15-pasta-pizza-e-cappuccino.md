@@ -2,7 +2,7 @@
 title: "Pasta pizza e cappuccino"
 lang: it
 ref: pasta-pizza-e-cappuccino
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, society]
 featured_image: /assets/images/2020-09-15-pasta-pizza-e-cappuccino.jpg
 publication: "Eventual Consistency"

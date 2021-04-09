@@ -2,7 +2,7 @@
 title: "Bracing for the worst"
 lang: en
 ref: bracing-for-the-worst
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19]
 featured_image: /assets/images/2020-08-08-bracing-for-the-worst.jpg
 image_alt: Ana Kova

@@ -2,7 +2,7 @@
 title: "In praise of social onlife"
 lang: en
 ref: in-praise-of-social-onlife
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, personal growth, personal development, life, digital transformation]
 featured_image: /assets/images/2020-08-02-in-praise-of-social-onlife.jpg
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Nuova didattica, vecchi fraintendimenti"
 lang: it
 ref: nuova-didattica-vecchi-fraintendimenti
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [google, learning, schools, university, italy]
 featured_image: /assets/images/2020-08-25-nuova-didattica-vecchi-fraintendimenti.png
 publication: "Eventual Consistency"

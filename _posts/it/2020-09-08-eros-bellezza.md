@@ -2,7 +2,7 @@
 title: "Eros e Bellezza"
 lang: it
 ref: eros-bellezza
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, society]
 featured_image: /assets/images/2020-09-08-eros-bellezza.jpg
 publication: "Eventual Consistency"

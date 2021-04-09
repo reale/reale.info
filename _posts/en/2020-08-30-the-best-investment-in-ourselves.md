@@ -2,7 +2,7 @@
 title: "The best investment? In ourselves"
 lang: en
 ref: the-best-investment-in-ourselves
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [warren buffett, finance, life lessons, ceo, investment]
 featured_image: /assets/images/2020-08-30-the-best-investment-in-ourselves.jpg
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Bolle o balle?"
 lang: it
 ref: bolle-o-balle
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [politics, italy, tech, internet, 5g]
 featured_image: /assets/images/2020-09-01-bolle-o-balle.png
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Minimum Wages: For or Against?"
 lang: en
 ref: minimum-wages-for-or-against
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [politics, society, jobs, work, european union]
 featured_image: /assets/images/2020-09-17-minimum-wages-for-or-against.jpg
 publication: "Eventual Consistency"

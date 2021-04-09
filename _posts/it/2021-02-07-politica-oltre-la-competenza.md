@@ -2,7 +2,7 @@
 title: "Politica oltre la competenza"
 lang: it
 ref: politica-oltre-la-competenza
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [politics, italy, people, eu, finance]
 featured_image: /assets/images/2021-02-07-politica-oltre-la-competenza.jpg
 publication: "Eventual Consistency"

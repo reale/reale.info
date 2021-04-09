@@ -2,7 +2,7 @@
 title: "Paradossi"
 lang: it
 ref: paradossi
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, society, people, policy]
 featured_image: /assets/images/2020-09-21-paradossi.jpg
 publication: "Eventual Consistency"

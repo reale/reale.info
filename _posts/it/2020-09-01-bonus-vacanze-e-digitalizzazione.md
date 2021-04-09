@@ -2,7 +2,7 @@
 title: "Bonus vacanze e digitalizzazione"
 lang: it
 ref: bonus-vacanze-e-digitalizzazione
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, digital transformation, digital, people]
 featured_image: /assets/images/2020-09-01-bonus-vacanze-e-digitalizzazione.jpg
 publication: "Eventual Consistency"

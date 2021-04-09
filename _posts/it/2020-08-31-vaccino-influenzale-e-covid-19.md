@@ -2,7 +2,7 @@
 title: "Vaccino influenzale e Covid-19"
 lang: it
 ref: vaccino-influenzale-e-covid-19
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, italy]
 featured_image: /assets/images/2020-08-31-vaccino-influenzale-e-covid-19.jpg
 publication: "Eventual Consistency"

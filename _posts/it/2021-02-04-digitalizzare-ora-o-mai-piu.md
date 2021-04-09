@@ -2,7 +2,7 @@
 title: "Digitalizzare, ora o mai più"
 lang: it
 ref: digitalizzare-ora-o-mai-piu
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, tech, europe, digital transformation]
 featured_image: /assets/images/2021-02-04-digitalizzare-ora-o-mai-piu.jpg
 image_alt: "© FT montage; Martin Leissl"

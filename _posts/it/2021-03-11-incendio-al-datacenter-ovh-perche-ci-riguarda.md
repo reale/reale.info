@@ -2,7 +2,7 @@
 title: "L’incendio al datacenter OVH: perché ci riguarda?"
 lang: it
 ref: incendio-al-datacenter-ovh-perche-ci-riguarda
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [europe, european union, cloud, cloud computing, tech]
 featured_image: /assets/images/2021-03-11-incendio-al-datacenter-ovh-perche-ci-riguarda.jpg
 publication: "Eventual Consistency"

@@ -2,7 +2,7 @@
 title: "Scapegoats"
 lang: en
 ref: scapegoats
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics]
 featured_image: /assets/images/2020-08-23-scapegoats.jpg
 publication: "Eventual Consistency"

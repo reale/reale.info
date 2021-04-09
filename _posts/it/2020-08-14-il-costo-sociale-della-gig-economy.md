@@ -2,7 +2,7 @@
 title: "Il costo sociale della gig economy"
 lang: it
 ref: the-social-cost-of-gig-economy
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [gig economy, california, usa, uber, lyft]
 featured_image: /assets/images/2020-08-14-the-social-cost-of-gig-economy.jpg
 image_alt: Ethan P. Schulman

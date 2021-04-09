@@ -2,7 +2,7 @@
 title: "Au-delà d'Eboli"
 lang: fr
 ref: beyond-eboli
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19]
 featured_image: /assets/images/2020-08-14-beyond-eboli.jpg
 publication:

@@ -2,7 +2,7 @@
 title: "Verso una sostenibilità digitale"
 lang: it
 ref: verso-una-sostenibilita-digitale
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [carbon emissions, digital transformation, transitions, green, internet]
 featured_image: /assets/images/2021-03-03-verso-una-sostenibilita-digitale.jpg
 publication: "Eventual Consistency"

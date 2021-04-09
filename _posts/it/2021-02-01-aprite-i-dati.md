@@ -2,7 +2,7 @@
 title: "Aprite i dati"
 lang: it
 ref: aprite-i-dati
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, data, data science, politics, open data]
 featured_image: /assets/images/2021-02-01-aprite-i-dati.png
 publication: "Eventual Consistency"

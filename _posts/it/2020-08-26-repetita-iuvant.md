@@ -2,7 +2,7 @@
 title: "Repetita iuvant"
 lang: it
 ref: repetita-iuvant
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, people, society, covid 19]
 featured_image: /assets/images/2020-08-26-repetita-iuvant.jpg
 publication: "Eventual Consistency"

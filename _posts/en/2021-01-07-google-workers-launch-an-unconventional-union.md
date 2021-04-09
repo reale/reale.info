@@ -2,7 +2,7 @@
 title: "Google Workers Launch an Unconventional Union"
 lang: en
 ref: google-workers-launch-an-unconventional-union
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [tech, google, people, politics, work]
 featured_image: /assets/images/2021-01-07-google-workers-launch-an-unconventional-union.jpg
 publication: "Eventual Consistency"

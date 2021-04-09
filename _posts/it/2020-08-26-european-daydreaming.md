@@ -2,7 +2,7 @@
 title: "European daydreaming"
 lang: it
 ref: european-daydreaming
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [europe, politics, european union, people, society]
 featured_image: /assets/images/2020-08-26-european-daydreaming.jpg
 publication: "Eventual Consistency"

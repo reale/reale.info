@@ -2,7 +2,7 @@
 title: "Il capitale sociale ha tante facce"
 lang: it
 ref: il-capitale-sociale-ha-tante-facce
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, society, politics, covid 19]
 featured_image: /assets/images/2020-09-09-il-capitale-sociale-ha-tante-facce.jpg
 publication: "Eventual Consistency"

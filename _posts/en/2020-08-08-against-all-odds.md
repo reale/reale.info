@@ -2,7 +2,7 @@
 title: "Against all odds"
 lang: en
 ref: against-all-odds
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [people, society, lebanon, europe, politics]
 featured_image: /assets/images/2020-08-08-against-all-odds.jpg
 publication: "Eventual Consistency"

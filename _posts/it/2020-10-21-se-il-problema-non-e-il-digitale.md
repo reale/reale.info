@@ -2,7 +2,7 @@
 title: "Se il problema non è il digitale"
 lang: it
 ref: se-il-problema-non-e-il-digitale
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 featured_image: /assets/images/2020-10-21-se-il-problema-non-e-il-digitale.jpg
 publication: "Immagina"

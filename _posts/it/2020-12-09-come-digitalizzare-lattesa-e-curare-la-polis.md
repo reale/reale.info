@@ -2,7 +2,7 @@
 title: "Come digitalizzare l’attesa e curare la polis"
 lang: it
 ref: come-digitalizzare-lattesa-e-curare-la-polis
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 featured_image: /assets/images/2020-12-09-come-digitalizzare-lattesa-e-curare-la-polis.jpg
 publication: "Immagina"

@@ -10,3 +10,5 @@ media:
   archive: https://web.archive.org/web/*/http://eventipa.formez.it/node/156537
   youtube: [ "https://youtu.be/UN6woUPo9X8", "https://youtu.be/55WZ1mCS098" ]
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55WZ1mCS098" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

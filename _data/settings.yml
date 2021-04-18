@@ -18,7 +18,7 @@ menu_settings:
       - title: 'Contact'
         url: '/en/contact'
       - title: 'IT'
-        url: 'https://reale.me/it/'
+        url: '/it/'
     it:
       - title: 'Chi sono'
         url: '/it/about'
@@ -29,7 +29,7 @@ menu_settings:
       - title: 'Contatti'
         url: '/it/contact'
       - title: 'EN'
-        url: 'https://reale.me/en/'
+        url: '/en/'
 
 footer_settings:
   footer_tagline: Building a stronger Europe through digital transformation for a more sustainable world.

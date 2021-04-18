@@ -1,0 +1,43 @@
+<section class="hero hero--single">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Talks</h1>
+        <!--<p>Personal includes a simple blog with pagination.</p>-->
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+        {% assign talks = site.categories.talks %}
+        {% for post in talks %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+					<p class="post__subtitle">{{ post.subtitle }}</p>
+					<p class="post__description">{{ post.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>

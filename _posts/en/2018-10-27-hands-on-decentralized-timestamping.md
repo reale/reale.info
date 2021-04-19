@@ -2,6 +2,7 @@
 title: "Hands-on decentralized timestamping"
 categories: [talks]
 tags: []
+lang: en
 featured_image: /assets/images/2018-10-27-hands-on-decentralized-timestamping.jpg
 conference: "Linux Day 2018"
 location: "Università di Tor Vergata, Rome"

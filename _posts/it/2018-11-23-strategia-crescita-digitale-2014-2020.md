@@ -2,6 +2,7 @@
 title: "Strategia per la crescita digitale 2014-2020"
 categories: [talks]
 tags: []
+lang: it
 featured_image: /assets/images/cover.jpg
 location: "Università degli Studi Guglielmo Marconi, Rome"
 media:

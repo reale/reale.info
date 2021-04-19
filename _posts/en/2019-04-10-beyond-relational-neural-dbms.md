@@ -11,4 +11,4 @@ media:
   issuu: https://issuu.com/roberto-reale/docs/reale_neural_dbms_iaml_20190410
 ---
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vbaYScKOCQ2a7n" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/robertoreale/beyond-relational-neural-dbms" title="Beyond relational: «neural» DBMS?" target="_blank">Beyond relational: «neural» DBMS?</a> </strong> from <strong><a href="//www.slideshare.net/robertoreale" target="_blank">Roberto Reale</a></strong> </div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%; padding-top: 38px;"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vbaYScKOCQ2a7n" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>

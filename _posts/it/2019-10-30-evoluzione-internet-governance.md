@@ -12,3 +12,5 @@ media:
   archive: http://web.archive.org/web/*/http://www.igfitalia2019.polito.it/documenti/evoluzione_di_internet_governance
   youtube: https://youtu.be/kNPliiqR3u4
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kNPliiqR3u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

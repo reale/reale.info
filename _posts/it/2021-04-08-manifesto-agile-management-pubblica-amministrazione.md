@@ -36,3 +36,5 @@ A partire dai principi del Manifesto Agile, elencati di seguito, durante l'incon
 10. La semplicità -l'arte di massimizzare la quantità di lavoro non svolto -- è essenziale.
 11. Le architetture, i requisiti e la progettazione migliori emergono da team che si auto-organizzano.
 12. A intervalli regolari il team riflette su come diventare più efficace, dopodiché regola e adatta il proprio comportamento di conseguenza.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjmAfYtG224" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

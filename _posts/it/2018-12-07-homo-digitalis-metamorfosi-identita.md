@@ -21,3 +21,5 @@ In platea anche tanti ragazzi delle superiori: e subito la lezione ex cathedra s
 Ho registrato tra i ragazzi una consapevolezza eccezionale, non soltanto sull'uso e la gestione della rete e dei social, ma sui temi di fondo della rivoluzione digitale: dal mutare dei rapporti al timore che l'uomo perda la sua centralità in un mondo dominato dalla macchina.
 
 Il mio messaggio in due parole: non abbandonare l'approccio critico, ma non lasciarsi dominare mai dalla paura. Aprirsi al mutamento e al dialogo con il nuovo, allargare i confini del mondo sperimentato in prima persona, insomma VIVERE il tempo presente standoci dentro il più possibile.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQvOEaS9ly0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

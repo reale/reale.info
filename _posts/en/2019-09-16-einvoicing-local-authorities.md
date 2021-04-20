@@ -11,6 +11,8 @@ canonical: http://localgov.einvoicingireland-project.eu/media.html
 archive: http://web.archive.org/web/*/http://localgov.einvoicingireland-project.eu/media.html
 media:
   pictures: https://photos.app.goo.gl/zS1cKG2am3gdnEjS9
+  slideshare: https://www.slideshare.net/robertoreale/einvoicing-adoption-in-italy-cef-projects
+  issuu: https://issuu.com/home/published/ciciriello_reale_einvoicing_adoption_in_italy.pptx
 ---
 
 On September 16th, 2019, members of the project met in Palermo with the representatives of the Sicilia Digitale (the IT company of the Region of Sicily) and AGID (Agency for Digital Italy) to share experience and best practices in the roll-out of eInvoicing.
@@ -26,3 +28,5 @@ The Italian government took the decision to minimise the impact of the EN on pub
 Sicilia Digitale presented the activities and expected results of the recently awarded CEF eInvoicing project. An eInvoicing module will be integrated in the regional eProcurement platform compliant with the EN, and a PEPPOL Access Point and SMP will be set up to ensure connectivity and interoperability with other participants in the PEPPOL network. In addition, a web-based solution for Sicilian SMEs will be made available for the exchange of EN compliant eInvoices based on the PEPPOL specifications, and supporting the Irish CIUS.
 
 The presentations triggered insightful dialogues and exchange of opinions on the best practices and challenges faced by the regions and local authorities in implementing eInvoicing, such as the need to make it mandatory for suppliers to ensure a full take up.
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%; padding-top: 38px;"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/k60kP3xKc2YAS" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>

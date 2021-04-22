@@ -1,6 +1,5 @@
 ---
 title: Ecco le specifiche tecniche del Digital Green Certificate EU: sotto il cofano IT del "passaporto sanitario" europeo 
-description: "Le specifiche uscite a fine aprile, constano di diverse parti, sono state elaborate nell’ambito dell’iniziativa eHealth, la rete istituita dalla Direttiva 2011/24/EU. Ecco tutti i dettagli."
 lang: it
 ref: ecco-le-specifiche-tecniche-del-digital-green-certificate-eu-sotto-il-cofano-it-del-passaporto-sanitario-europeo
 categories: [publications, articles]

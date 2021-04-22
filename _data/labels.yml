@@ -1,0 +1,317 @@
+---
+## Labels
+affiliations:
+    en: "Affiliations"
+    es: "Afiliaciones"
+    fr: "Affiliations"
+    it: "Affiliazioni"
+also-available:
+    en: "Also available in"
+    es: "También disponible en"
+    fr: "Aussi disponible en"
+    it: "Disponibile anche in"
+archived:
+    en: "Archived version"
+    es: "Versión archivada"
+    fr: "Version archive"
+    it: "Pagina archiviata"
+articles:
+    en: "Articles"
+    es: "Artículos"
+    fr: "Articles"
+    it: "Articoli"
+articles-other-languages:
+    en: "Articles in other languages"
+    es: "Artículos en otros idiomas"
+    fr: "Articles dans d'autres langues"
+    it: "Articoli in altre lingue"
+articles-same-language:
+    en: "Articles in English"
+    es: "Artículos en español"
+    fr: "Articles en français"
+    it: "Articoli in italiano"
+bio-excerpt:
+    en: "I am an Innovation Manager with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments."
+    es: "Soy un Manager de Innovación con experiencia internacional en proyectos de gobierno electrónico y transformación digital del sector público, tanto en la UE como a nivel nacional (organismos parlamentarios, finanzas públicas, adquisiciones, infraestructuras estratégicas, servicios públicos), así como 20 años de experiencia en ingeniería y gestión de TIC, planificación empresarial y financiera, desarrollo estratégico en entornos diversos y multisectoriales."
+    fr: "Je suis un Manager de l’Innovation avec une expérience internationale dans les projets d’e-gouvernement et de transformation numérique du secteur public tant au niveau de l’UE qu’au niveau national (organes parlementaires, finances publiques, marchés, infrastructures stratégiques, services publics) ainsi que 20 ans d’expérience de l’ingénierie et de la gestion des TIC, de la planification commerciale et financière, du développement stratégique dans des environnements différents et multistakeholder."
+    it: "Sono un Innovation Manager con esperienza internazionale in progetti di e-government e trasformazione digitale del settore pubblico sia a livello europeo che a livello nazionale (organi parlamentari, finanza pubblica, appalti, infrastrutture strategiche, servizi pubblici digitali) e 20 anni di esperienza in sviluppo, progettazione e gestione di piattaforme ICT, business e financial planning e sviluppo strategico in ambienti complessi e multistakeholder."
+bio-header:
+    en: "Me in a Nutshell"
+    es: "Yo en pocas palabras"
+    fr: "Moi en bref"
+    it: "Io in breve"
+blockchain:
+    en: "Blockchain"
+    es: "Blockchain"
+    fr: "Blockchain"
+    it: "Blockchain"
+blog:
+    en: "Blog"
+    es: "Blog"
+    fr: "Blog"
+    it: "Blog"
+book-reviews:
+    en: "Book Reviews"
+    es: "Reseñas de libros"
+    fr: "Book Reviews"
+    it: "Book Reviews"
+buy-on:
+    en: "Buy on"
+    es: "Comprar en"
+    fr: "Acheter sur"
+    it: "Acquista su"
+coauthors:
+    en: "Coauthors"
+    es: "Coautores"
+    fr: "Coauteurs"
+    it: "Coautori"
+contacts:
+    en: "Contacts"
+    es: "Contactos"
+    fr: "Contacts"
+    it: "Contatti"
+cookieconsent-dismiss:
+    en: "Got it!"
+    es: "¡Entendido!"
+    fr: "Je suis d'accord!"
+    it: "Ho capito!"
+cookieconsent-message:
+    en: "This website uses cookies to ensure that you get the best navigation experience."
+    es: "Este sitio web utiliza cookies para garantizar que obtenga la mejor experiencia de navegación."
+    fr: "Ce site Web utilise des cookies pour vous assurer la meilleure expérience de navigation."
+    it: "Questo sito Web utilizza i cookie per assicurarti una esperienza di navigazione soddisfacente."
+datalab:
+    en: "Data Lab"
+    es: "Data Lab"
+    fr: "Data Lab"
+    it: "Data Lab"
+egov:
+    en: "E-government"
+    es: "E-government"
+    fr: "E-government"
+    it: "E-government"
+email-address:
+    en: "Email address"
+    es: "Correo electrónico"
+    fr: "Adresse e-mail"
+    it: "Email"
+email-address-placeholder:
+    en: "email@domain.tld"
+    es: "email@domain.tld"
+    fr: "email@domain.tld"
+    it: "email@domain.tld"
+english:
+    en: "English"
+    es: "Inglés"
+    fr: "Anglais"
+    it: "Inglese"
+essays-poetry:
+    en: "Essays and Poetry"
+    es: "Ensayos y poesía"
+    fr: "Essais et poésie"
+    it: "Saggi e poesie"
+experience:
+    en: "Work experience"
+    es: "Experiencia laboral"
+    fr: "Expérience professionnelle"
+    it: "Esperienza professionale"
+featured-projects:
+    en: "Featured Projects"
+    es: "Proyectos destacados"
+    fr: "Featured Projects"
+    it: "Progetti in evidenza"
+first-published:
+    en: "First published on"
+    es: "Publicado por primera vez en"
+    fr: "Première publication"
+    it: "Pubblicato su"
+french:
+    en: "French"
+    es: "Francés"
+    fr: "Français"
+    it: "Francese"
+homepage:
+    en: "Homepage"
+    es: "Página principal"
+    fr: "Page d'accueil"
+    it: "Home"
+interviews:
+    en: "Interviews"
+    es: "Entrevistas"
+    fr: "Entrevues"
+    it: "Interviste"
+interviews-other-languages:
+    en: "Interviews in other languages"
+    es: "Entrevistas en otros idiomas"
+    fr: "Entrevues dans d'autres langues"
+    it: "Interviste in altre lingue"
+interviews-same-language:
+    en: "Interviews in English"
+    es: "Entrevistas en inglés"
+    fr: "Entrevues en français"
+    it: "Interviste in italiano"
+italian:
+    en: "Italian"
+    es: "Italiano"
+    fr: "Italien"
+    it: "Italiano"
+language:
+    en: "Language"
+    es: "Idioma"
+    fr: "Language"
+    it: "Lingua"
+learn-more:
+    en: "Learn More"
+    es: "Aprende más"
+    fr: "En savoir plus"
+    it: "Leggi"
+me-in-a-nutshell:
+    en: "Me in a Nutshell"
+    es: "Yo en pocas palabras"
+    fr: "Moi en bref"
+    it: "Io in breve"
+message:
+    en: "Message"
+    es: "Mensaje"
+    fr: "Message"
+    it: "Messaggio"
+misc:
+    en: "Misc"
+    es: "Misc"
+    fr: "Misc"
+    it: "Misc"
+my-role:
+    en: "My role"
+    es: "Mi papel"
+    fr: "Mon rôle"
+    it: "Ruolo"
+my-story:
+    en: "My Story"
+    es: "Mi historia"
+    fr: "Mon histoire"
+    it: "La mia storia"
+name:
+    en: "Name"
+    es: "Nombre"
+    fr: "Nom"
+    it: "Nome"
+name-placeholder:
+    en: "Name"
+    es: "Nombre"
+    fr: "Nom"
+    it: "Nome"
+news:
+    en: "News"
+    es: "Noticias"
+    fr: "News"
+    it: "News"
+podcast:
+    en: "Podcast"
+    es: "Podcast"
+    fr: "Podcast"
+    it: "Podcast"
+project-media:
+    en: "Project media"
+    es: "Project media"
+    fr: "Project media"
+    it: "Project media"
+project-repo:
+    en: "Project repository"
+    es: "Repositorio de proyecto"
+    fr: "Repository de projet"
+    it: "Repository di progetto"
+projects:
+    en: "Projects"
+    es: "Proyectos"
+    fr: "Projets"
+    it: "Progetti"
+publications:
+    en: "Publications"
+    es: "Publicaciones"
+    fr: "Publications"
+    it: "Pubblicazioni"
+random-writings:
+    en: "Random Writings"
+    es: "Escritos al azar"
+    fr: "Écrits épars"
+    it: "Scritti sparsi"
+read-more:
+    en: "More"
+    es: "Más"
+    fr: "Plus"
+    it: "Leggi"
+read-on:
+    en: "Read on"
+    es: "Sigue leyendo"
+    fr: "Lire su"
+    it: "Leggi su"
+resume:
+    en: "Resume"
+    es: "Currículum"
+    fr: "Resume"
+    it: "CV"
+software:
+    en: "Software"
+    es: "Software"
+    fr: "Logiciels"
+    it: "Software"
+spanish:
+    en: "Spanish"
+    es: "Español"
+    fr: "Espagnol"
+    it: "Spagnolo"
+submit:
+    en: "Submit"
+    es: "Enviar"
+    fr: "Envoyer"
+    it: "Invia"
+talks:
+    en: "Talks"
+    es: "Talks"
+    fr: "Talks"
+    it: "Talk"
+teaching:
+    en: "Teaching"
+    es: "Enseñar"
+    fr: "Enseignement"
+    it: "Docenze"
+technical-books:
+    en: "Technical books"
+    es: "Libros técnicos"
+    fr: "Livres techniques"
+    it: "Libri"
+theses:
+    en: "Theses"
+    es: "Tesis"
+    fr: "Thèses"
+    it: "Tesi"
+this-blog-is-available-also-on:
+    en: "This blog is available also on"
+    es: "Este blog está disponible también en"
+    fr: "Ce blog est également disponible sur"
+    it: "Questo blog è disponibile anche su"
+trivia:
+    en: "Trivia"
+    es: "Trivia"
+    fr: "Trivia"
+    it: "Trivia"
+website:
+    en: "Website"
+    es: "Sitio web"
+    fr: "Site Internet"
+    it: "Website"
+who-i-am:
+    en: "Who I am"
+    es: "Quién soy"
+    fr: "Qui je suis"
+    it: "Chi sono"
+wordclouds:
+    en: "Wordclouds"
+    es: "Wordclouds"
+    fr: "Mot nuages"
+    it: "Wordcloud"
+write-review-on:
+    en: "Write a review on"
+    es: "Escribir una reseña sobre"
+    fr: "Écrire un avis sur"
+    it: "Recensisci su"

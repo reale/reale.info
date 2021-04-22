@@ -1,0 +1,7 @@
+<section>
+    <ul>
+        {% for item in site.data.interviews.interviews %}
+        <li>{{ item.date }}, {% if item.newspaper != nil and item.newspaper != "" %}<em>{{ item.newspaper }}</em>, {% endif %}<a href="{{ item.url }}"><em>{{ item.title }}</em></a> {% if item.archived != nil and item.archived != "" %}(<a href="{{ item.archived }}">{{ site.data.labels.archived[page.lang] }}</a>){% endif %}</li>
+        {% endfor %}
+    </ul>
+</section>

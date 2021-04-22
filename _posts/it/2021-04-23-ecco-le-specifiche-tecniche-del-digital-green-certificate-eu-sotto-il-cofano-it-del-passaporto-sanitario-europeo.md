@@ -1,5 +1,6 @@
 ---
-title: "Ecco le specifiche tecniche del Digital Green Certificate EU: sotto il cofano IT del passaporto sanitario europeo"
+title: "Ecco le specifiche tecniche del Digital Green Certificate EU"
+description: "Sotto il cofano IT del passaporto sanitario europeo"
 lang: it
 ref: ecco-le-specifiche-tecniche-del-digital-green-certificate-eu-sotto-il-cofano-it-del-passaporto-sanitario-europeo
 categories: [publications, articles]

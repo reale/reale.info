@@ -17,7 +17,8 @@
 
 	<div class="wrap">
 
-		{% for post in site.posts %}
+        {% assign posts = site.categories.articles %}
+        {% for post in posts %}
 
 		<article class="post">
 

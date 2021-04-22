@@ -20,3 +20,5 @@ for citizens, provided free interoperable solutions to companies and connected
 various organisations in different sectors. The DigitALL Public conference will
 celebrate the next step in this journey while looking ahead towards Europe's
 digital future.
+
+![](/assets/images/2021-04-22-digitallpublic-1.png)

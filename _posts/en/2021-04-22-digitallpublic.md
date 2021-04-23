@@ -1,5 +1,6 @@
 ---
 title: "How to make the most of procurement data"
+featured: true
 lang: en
 ref: digitallpublic
 categories: [talks]

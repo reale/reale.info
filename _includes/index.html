@@ -15,8 +15,7 @@
 
 	<div class="wrap">
 
-        {% assign posts = site.categories.articles %}
-        {% for post in posts %}
+        {% for post in site.posts %}
         {% if post.featured == true %}
 
 		<article class="post">

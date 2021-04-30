@@ -1,6 +1,6 @@
 # [reale.info](https://reale.info)
 
-![Uptime Robot](https://img.shields.io/uptimerobot/status/m787394883-b92879bb7bb0ec7815e82010)
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m788020696-5a9a2fe54d5e5723552623aa)
 
 Source code of my personal website [reale.info](https://reale.info).
 

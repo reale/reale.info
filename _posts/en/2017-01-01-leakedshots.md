@@ -5,12 +5,10 @@ ref: leakedshots
 categories: [projects, photography, misc]
 tags: []
 featured_image: /assets/images/2017-01-01-leakedshots.jpg
-canonical: https://leakedshots.reale.me/
+canonical: https://leakedshots.reale.info/
 others:
   flickr: https://www.flickr.com/people/leakedshots
   instagram: https://www.instagram.com/leakedshots
-  facebook: https://www.facebook.com/leakedshots
-  twitter: https://www.twitter.com/leakedshots
   source: https://github.com/reale/leakedshots
 ---
 

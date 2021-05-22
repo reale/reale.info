@@ -9,7 +9,7 @@ conference: "e-privacy XXIX"
 location: online
 media:
   website: https://e-privacy.winstonsmith.org/e-privacy-XXIX-programma.html
-  youtube: [ "https://youtu.be/9ebJxPhGmlw?t=11460s" ]
+  youtube: [ "https://youtu.be/9ebJxPhGmlw?t=11460s", "https://youtu.be/egtiBcL-YP4?t=11460s" ]
 ---
 
 Il nuovo Regolamento europeo sull'intelligenza artificiale, la cui versione

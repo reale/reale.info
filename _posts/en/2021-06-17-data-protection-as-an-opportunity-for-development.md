@@ -1,5 +1,6 @@
 ---
 title: "Data protection as an opportunity for development"
+description: "Is it true that data protection (and data governance) policies are simply yet another encumbrance which makes the public action slower and slower?"
 lang: en
 ref: data-protection-as-an-opportunity-for-development
 categories: [publications, articles]
